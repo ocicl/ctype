@@ -1,0 +1,9 @@
+* ctype
+
+CL type system implementation
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/s-expressionists/ctype.git |
+| commit  | d2447c1                                           |
+| systems | ctype                                             |
+|---------+---------------------------------------------------|
