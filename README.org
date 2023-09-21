@@ -4,6 +4,6 @@ CL type system implementation
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/s-expressionists/ctype.git |
-| commit  | d2447c1                                           |
+| commit  | 1f1911a                                           |
 | systems | ctype                                             |
 |---------+---------------------------------------------------|
